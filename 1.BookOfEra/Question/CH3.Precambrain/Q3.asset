@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75c1b5defba5bb84a93e843f0fe3855e, type: 3}
+  m_Name: Q3
+  m_EditorClassIdentifier: 
+  IsTrue: 1
+  QuestionEnglish: In the Archean Eon, approximately 4 to 2.5 billion years ago,
+    the most of the continents, approximately 70%, had formed and were floating on
+    molten seas. During this time, Earth was a hellish place with high temperatures
+    that could melt almost everything.
+  QuestionThai: 
+  AddTime: 0

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d27a2b12ec1c1e44eba5780cb9a25277, type: 3}
+  m_Name: Shell staff
+  m_EditorClassIdentifier: 
+  ID: 16
+  Icon: {fileID: 21300000, guid: 094a4b7ff8df1c54d803f495558722d2, type: 3}
+  English_name: Shell staff
+  English_period: Silurian
+  English_Detail: A staff with a shell head
+  Thai_name: 
+  Thai_period: 
+  Thai_Detail: 
+  Sword: 1
+  Hat: 0
+  Shirt: 0
+  Pant: 0
+  Shoe: 0
+  IDItemUsed1: 8
+  NumberAmountItemUsed1: 2
+  MultiplierAmountItemUsed1: 0
+  IDItemUsed2: 2
+  NumberAmountItemUsed2: 4
+  MultiplierAmountItemUsed2: 0
+  AmountDamage: 10
+  MultiplierDamage: 2
+  Description: ------------- Ending input Data -------------
+  IsUse: 0
+  EverHave: 0
+  Activate: 1
+  NumberAmount: 52
+  MultiplierAmount: 0
+  Name: Shell staff
+  Detail: A staff with a shell head
+  Period: Silurian

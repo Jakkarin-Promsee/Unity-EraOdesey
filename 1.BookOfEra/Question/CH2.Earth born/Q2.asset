@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75c1b5defba5bb84a93e843f0fe3855e, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  IsTrue: 1
+  QuestionEnglish: The force of the moon-forming impact left Earth as a churning,
+    hot magma blob. When the planet eventually cooled down, the lava solidified into
+    rock, and liquid water began to condense, forming Earth's first ocean. The oldest
+    minerals found on Earth, called zircons, date back to this time and are 4.4 billion
+    years old.
+  QuestionThai: 
+  AddTime: 0
